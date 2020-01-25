@@ -24,7 +24,7 @@ public class XLReading {
 		String value=cell.toString();
 		System.out.println(value);
 		
-		//get value 2 here
+		
 		
 		String value2=xlsheet.getRow(1).getCell(1).toString();
 		System.out.println(value2);
